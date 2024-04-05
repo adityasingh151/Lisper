@@ -15,6 +15,7 @@ Lisper is a simple web application that fetches and displays random secrets from
 - Axios
 - HTML
 - CSS
+- postgreSQL
 
 ## Getting Started
 
